@@ -8,8 +8,8 @@ python3 Tetris.py
 ```
 
 ### Commandes
-Pour déplacer les pièces utilisez les flèches gauches et droite.  Pour retourner une pièce pousser sur la flèche du haut.  Pour faire descendre une pièce directement tout en bas faites la flèche du bas.  Poussez sur `esc` pour mettre le jeu en pause.
+Pour déplacer les pièces utilisez les flèches :arrow_left: gauches et :arrow_right: droite.  Pour retourner une pièce pousser sur la :arrow_up: flèche du haut.  Pour faire descendre une pièce directement tout en bas faites la :arrow_down: flèche du bas.  Poussez sur `esc` pour mettre le jeu en pause.
 
 
-### Images
+### Image
 ![Preview](tetris.png)
